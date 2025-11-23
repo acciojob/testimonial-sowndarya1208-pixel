@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+#maincontainer{
+	padding:20px;
+	background-color:#f5f5f5;
+	border:none;
+	outline:none;
+}
+#testimonialbox1{
+	
+	border:1px solid gray;
+	background-color:white;
+}
+#testimonialbox2{
+	border:1px solid gray;
+	background-color:white;
+}
+.align-right{
+	text-align:right;
+}
+.italic-text{
+	font-style:italic;
+}
+
